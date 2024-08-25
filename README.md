@@ -4,8 +4,9 @@
 
 This project is a chess-like game built with a server-client architecture using WebSocket for real-time communication. The game is played on a 5x5 grid with two players, each controlling characters with unique movement abilities.
 
-![image](https://github.com/user-attachments/assets/8a0ea6d0-d6d4-4a69-a4d5-e2850b196166)
+![image](https://github.com/user-attachments/assets/5a38b618-d72e-4b3a-8286-8e8dc6104a43)
 
+![image](https://github.com/user-attachments/assets/ebeaf008-4088-4983-9a1a-4bb4d5f52564)
 
 ```markdown
 ## Project Structure
@@ -54,7 +55,8 @@ This project is a chess-like game built with a server-client architecture using 
    -The turn indicator will update to show whose turn it is.
    -The game will notify you when a player wins.
 ```
-![image](https://github.com/user-attachments/assets/4500a563-c86b-48f4-9b5b-a4281002cc1b)
+![image](https://github.com/user-attachments/assets/1020c903-f3e1-44b1-944d-1202b7dcc93b)
+
 
 ```markdown
 ## Dependencies
